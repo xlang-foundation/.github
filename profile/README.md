@@ -11,7 +11,7 @@ It combines Python-like syntax with a native high-performance runtime, and is bu
 ## Main Repositories
 
 - [xlang](https://github.com/xlang-foundation/xlang) — core language and runtime
-- [xMind Repository](https://github.com/xlang-foundation/xMind) — AI memory, planning, and dataflow framework
+- [xMind](https://github.com/xlang-foundation/xMind) — AI memory, planning, and dataflow framework
 
 ## Learn More
 
