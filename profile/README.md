@@ -1,8 +1,8 @@
-# The XLang Foundation
+# The XLang™ Foundation
 
-The XLang Foundation supports the development of **XLang™**, an open-source programming language for AI, systems, and distributed computing.
+The XLang™ Foundation supports the development of **XLang™**, an open-source programming language for AI, systems, and distributed computing.
 
-## What is XLang?
+## What is XLang™?
 
 **XLang™ is an agent-native programming language designed for software that connects models, tools, devices, processes, and distributed nodes.**
 
